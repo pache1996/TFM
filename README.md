@@ -4,6 +4,6 @@
 
  The code is written in R (a statistical tool developed for statistical analysis). 
 
-  We compare an reproduce methods from article "Predicting using Box-Jenkins, Nonparametric and Bootstrap Techniques (1995)", García-Jurado, I., González-Manteiga, W., Prada-Sánchez, J.M., Febrero-Bande, M. & Cao, R.  Tech-nometrics, 37, 303-310.
+  We reproduce and compare some methods from article "Predicting using Box-Jenkins, Nonparametric and Bootstrap Techniques (1995)", García-Jurado, I., González-Manteiga, W., Prada-Sánchez, J.M., Febrero-Bande, M. & Cao, R.  Tech-nometrics, 37, 303-310. 
 
  
